@@ -6,10 +6,10 @@
   "engines": {
     "gitbook": ">=2.5.1"
   },
-  "homepage": "https://github.com/iotdoc/gitbook-plugin-iotdoc-nav.git",
+  "homepage": "https://github.com/iotdoc/gitbook-plugin-iotdoc-nav",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iotdoc/gitbook-plugin-iotdoc-nav.git"
+    "url": "https://github.com/iotdoc/gitbook-plugin-iotdoc-nav"
   },
   "license": "MIT",
   "gitbook": {
