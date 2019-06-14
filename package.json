@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      {
+        "hosted": {
+          "directUrl": "https://raw.githubusercontent.com/particle-analytics/gitbook-plugin-top-nav-pa/master/package.json",
+          "gitUrl": "git://github.com/particle-analytics/gitbook-plugin-top-nav-pa.git",
+          "httpsUrl": "git+https://github.com/particle-analytics/gitbook-plugin-top-nav-pa.git",
+          "shortcut": "github:particle-analytics/gitbook-plugin-top-nav-pa",
+          "ssh": "git@github.com:particle-analytics/gitbook-plugin-top-nav-pa.git",
+          "sshUrl": "git+ssh://git@github.com/particle-analytics/gitbook-plugin-top-nav-pa.git",
+          "type": "github"
+        },
+        "name": "gitbook-plugin-top-nav-pa",
+        "raw": "gitbook-plugin-top-nav-pa@git+https://github.com/particle-analytics/gitbook-plugin-top-nav-pa.git",
+        "rawSpec": "git+https://github.com/particle-analytics/gitbook-plugin-top-nav-pa.git",
+        "scope": null,
+        "spec": "git+https://github.com/particle-analytics/gitbook-plugin-top-nav-pa.git",
+        "type": "hosted"
+      },
+      "D:\\apidoc_release"
+    ]
+  ],
+  "_from": "git+https://github.com/particle-analytics/gitbook-plugin-top-nav-pa.git",
+  "_id": "gitbook-plugin-top-nav-pa@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gitbook-plugin-top-nav-pa",
+  "_phantomChildren": {},
+  "_requested": {
+    "hosted": {
+      "directUrl": "https://raw.githubusercontent.com/particle-analytics/gitbook-plugin-top-nav-pa/master/package.json",
+      "gitUrl": "git://github.com/particle-analytics/gitbook-plugin-top-nav-pa.git",
+      "httpsUrl": "git+https://github.com/particle-analytics/gitbook-plugin-top-nav-pa.git",
+      "shortcut": "github:particle-analytics/gitbook-plugin-top-nav-pa",
+      "ssh": "git@github.com:particle-analytics/gitbook-plugin-top-nav-pa.git",
+      "sshUrl": "git+ssh://git@github.com/particle-analytics/gitbook-plugin-top-nav-pa.git",
+      "type": "github"
+    },
+    "name": "gitbook-plugin-top-nav-pa",
+    "raw": "gitbook-plugin-top-nav-pa@git+https://github.com/particle-analytics/gitbook-plugin-top-nav-pa.git",
+    "rawSpec": "git+https://github.com/particle-analytics/gitbook-plugin-top-nav-pa.git",
+    "scope": null,
+    "spec": "git+https://github.com/particle-analytics/gitbook-plugin-top-nav-pa.git",
+    "type": "hosted"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "git+https://github.com/particle-analytics/gitbook-plugin-top-nav-pa.git#0fa85c78b4f0a49e6e485576dc22b427b130c57e",
+  "_shasum": "a66e974685800b81e17ee903dfc6213336d144bc",
+  "_shrinkwrap": null,
+  "_spec": "gitbook-plugin-top-nav-pa@git+https://github.com/particle-analytics/gitbook-plugin-top-nav-pa.git",
+  "_where": "D:\\apidoc_release",
+  "bugs": {
+    "url": "https://github.com/particle-analytics/gitbook-plugin-top-nav-pa/issues"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  },
+  "description": "Particle Analytics top nav plugin for gitbook",
+  "devDependencies": {},
+  "engines": {
+    "gitbook": ">=2.5.1"
+  },
+  "gitHead": "0fa85c78b4f0a49e6e485576dc22b427b130c57e",
+  "gitbook": {
+    "properties": {}
+  },
+  "homepage": "https://github.com/particle-analytics/gitbook-plugin-top-nav-pa",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "gitbook-plugin-top-nav-pa",
+  "optionalDependencies": {},
+  "readme": "# gitbook-plugin-top-nav-pa\r\nPlugin for gitbook to add custom top navigation bar.\r\n\r\n![Screenshot](pa-logo.png)\r\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/particle-analytics/gitbook-plugin-top-nav-pa.git"
+  },
+  "version": "0.0.1"
+}
